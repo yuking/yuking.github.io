@@ -1,0 +1,78 @@
+body {
+  background: url(../img/1.jpg);
+  padding-top: 70px;
+}
+
+.navsign:hover {
+  cursor: pointer;
+}
+
+.nav_userarea:hover {
+  cursor: pointer;
+}
+
+.modal-content {
+  position: fixed;
+  width: 450px;
+  margin-top: 100px;
+}
+
+.modal-body {
+  padding-right: 20px;
+}
+
+.switch {
+  border-bottom: 1px solid #d0d6d9;
+}
+
+.sign {
+  width: 120px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: inline-block;
+}
+
+.sign:hover {
+  color: #f01400;
+  cursor: pointer;
+}
+
+.sign_focus {
+  color: #f01400;
+}
+
+.switch_bottom {
+  position: relative;
+  left: 0px;
+  width: 120px;
+  border-bottom: 2px solid #f01400;
+}
+
+.form_area {
+  margin-top: 25px;
+}
+
+.checkbox {
+  height: 34px;
+}
+
+.forget {
+  right: 0px;
+  color: #787d82;
+  position: absolute;
+}
+
+.forget:hover {
+  color: #f01400;
+  text-decoration: none;
+}
+
+.submit {
+  height: 50px;
+  width: 150px;
+  color: #fff;
+  background-color: #f01400;
+  text-align: center;
+  font-size: 1.4em;
+}
